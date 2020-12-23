@@ -1,0 +1,4 @@
+spring:
+  application:
+    name: xcx-config-eureka-client-7001
+

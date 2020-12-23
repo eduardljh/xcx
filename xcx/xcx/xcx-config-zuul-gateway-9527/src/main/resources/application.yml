@@ -1,0 +1,3 @@
+spring:
+  application:
+  name: xcx-config-zuul-gateway-9527
